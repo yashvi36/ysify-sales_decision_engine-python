@@ -1,0 +1,19 @@
+{
+    "business_health": "Downward",
+    "top_category": "Electronics",
+    "action": "Review pricing and reduce inventory risk",
+    "executive_commentary": "The business is currently showing an downward trend. The top performing category is Electronics. Overall risk level is high risk, with stable forecast expected over the next quarter.",
+    "kpis": {
+        "avg_monthly_revenue": 334500.0,
+        "best_month": "2024-05",
+        "worst_month": "2024-08"
+    },
+    "anomalies": [
+        {
+            "month": "2024-05",
+            "revenue": 1120000,
+            "type": "Unusual Spike",
+            "z_score": 2.04
+        }
+    ]
+}
